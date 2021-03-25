@@ -23,13 +23,16 @@
 который проверяет, что изображение больше минимального указанного в Кб
 и вызывает метод writeToFile(), сохраняющий массив байт в файл изображения.
 
-Диаграмма классов: ![class](./md-resources/diagrams/Class.jpg)
-Диаграмма компонентов: ![component](./md-resources/diagrams/Component.jpg)
-Диаграмма последовательности: ![sequence](./md-resources/diagrams/Sequence.png)
+Диаграмма классов:<br/>![class](./md-resources/diagrams/Class.jpg)
+
+Диаграмма компонентов:<br/>![component](./md-resources/diagrams/Component.jpg)
+
+Диаграмма последовательности:<br/>![sequence](./md-resources/diagrams/Sequence.png)
 
 ## Результаты работы приложения
-Вывод в консоль: ![console](./md-resources/screens/Console.png)
-Директория с загруженными изображениями: ![console](./md-resources/screens/Directory.png)
+Вывод в консоль:<br/>![console](./md-resources/screens/Console.png)
+
+Директория с загруженными изображениями:<br/>![console](./md-resources/screens/Directory.png)
 
 ## Вывод
 Таким образом, было реализовано приложение для сохранения изображений,
